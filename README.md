@@ -33,9 +33,9 @@ This board is suitable for prototyping, debugging, and small-scale embedded proj
 
 ## 📐 Schematics
 
-**MCU & Power Section** <img width="686" height="520" alt="Schematic Page 1" src="https://github.com/user-attachments/assets/fa9e3a74-1346-409a-b38e-4eb0f635c00a" />
+**Power Section** <img width="686" height="520" alt="Schematic Page 1" src="https://github.com/user-attachments/assets/fa9e3a74-1346-409a-b38e-4eb0f635c00a" />
 
-**USB, Debug & GPIO Section** <img width="1012" height="669" alt="Schematic Page 2" src="https://github.com/user-attachments/assets/91746efd-c814-42e9-9665-4a9552a37d1e" />
+**MCU, Debug & GPIO Section** <img width="1012" height="669" alt="Schematic Page 2" src="https://github.com/user-attachments/assets/91746efd-c814-42e9-9665-4a9552a37d1e" />
 
 ---
 
